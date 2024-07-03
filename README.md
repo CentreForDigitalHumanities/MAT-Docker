@@ -6,7 +6,7 @@ The rest of the README assumes that you [have Docker installed](https://docs.doc
 
 ## Setup
 ### Download MAT
-This Vagrant box needs you to download MAT, unzip it, and put it in the correct directory. So, head over to [MATs download page](https://sourceforge.net/projects/mat-annotation/files/) and download the latest version.
+This Docker container needs you to download MAT, unzip it, and put it in the correct directory. So, head over to [MATs download page](https://sourceforge.net/projects/mat-annotation/files/) and download the latest version.
 
 Next, unzip the file you downloaded into a folder with the name `MAT` at the repo's root folder.
 
