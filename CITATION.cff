@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MAT-Docker
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: >-
+      Research Software Lab, Centre for Digital Humanities,
+      Utrecht University
+    city: Utrecht
+    country: NL
+    email: cdh@uu.nl
+    website: >-
+      https://cdh.uu.nl/centre-for-digital-humanities/research-software-lab/
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10600256
+repository-code: 'https://github.com/UUDigitalHumanitieslab/MAT-Docker'
+abstract: >-
+  Docker container to fiddle around with MITRE Annotation Tool (a.k.a MAT). It is basically an Ubuntu 18.04 OS, onto which MATs dependencies are installed.
+license: BSD-3-Clause
+version: 0.0.0
+date-released: '2024-07-03'
