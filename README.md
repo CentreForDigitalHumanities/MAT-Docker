@@ -1,4 +1,6 @@
 # MITRE Annototion Tool Docker
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12636590.svg)](https://doi.org/10.5281/zenodo.12636590)
+
 This repo contains a Docker container to fiddle around with [MITRE Annotation Tool](http://mat-annotation.sourceforge.net/) (a.k.a MAT). It is basically an Ubuntu 18.04 OS, onto which MATs dependencies are installed.
 
 ## Prerequisites
