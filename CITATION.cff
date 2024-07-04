@@ -18,10 +18,10 @@ authors:
       https://cdh.uu.nl/centre-for-digital-humanities/research-software-lab/
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.10600256
+    value: 10.5281/zenodo.12636590
 repository-code: 'https://github.com/UUDigitalHumanitieslab/MAT-Docker'
 abstract: >-
   Docker container to fiddle around with MITRE Annotation Tool (a.k.a MAT). It is basically an Ubuntu 18.04 OS, onto which MATs dependencies are installed.
 license: BSD-3-Clause
-version: 0.0.0
+version: 0.0.1
 date-released: '2024-07-03'
